@@ -69,7 +69,7 @@ This program is targeted towards Beginner to Intermediate, if you feel over- or 
 
 #### Cardio
 
-- Run ~ 45 Minutes
+- Run ~ 45 Minutes, try to increase the running distance by 10% of your initial distance each time
 - Finish with "6 PACK ABS For Beginners" (https://goo.gl/erW6wi)
 
 
