@@ -41,9 +41,9 @@ This program is targeted towards Beginner to Intermediate, if you feel over- or 
 - 4 x 10 Downward Dog Pushups (https://goo.gl/wq6Ppb)
 - 4 x 20 Lunges (https://goo.gl/63pDJf, https://goo.gl/YTVmdj)
 - 4 x 10 Pushups (https://goo.gl/s2vy4d)
-- 4 x 20s Rotating Side Planks (Leave out the rotations if it's too demanding) (https://goo.gl/MzDeEG)
+- 4 x 20s Rotating Side Planks (Leave out the rotation if it's too demanding) (https://goo.gl/MzDeEG)
 - 4 x 10 Bench Dips (https://goo.gl/tLRxm4)
-- 4 x 20 Calv Raises (https://goo.gl/ewio91)
+- 4 x 20 Calf Raises (https://goo.gl/ewio91)
 - Finish with "6 Pack Promise" (https://goo.gl/8FJ5oy)
 
 #### Day B1
@@ -57,9 +57,9 @@ This program is targeted towards Beginner to Intermediate, if you feel over- or 
 - 4 x 10 Diamond Pushups (https://goo.gl/UPRjyP)
 - 4 x 10 Box Jumps (45-60cm height) (https://goo.gl/sWUnfQ)
 - 4 x 10 Inclined Pushups (https://goo.gl/UX5uqF)
-- 4 x 20s Rotating Side Planks (Leave out the rotations if it's too demanding) (https://goo.gl/MzDeEG)
+- 4 x 20s Rotating Side Planks (Leave out the rotation if it's too demanding) (https://goo.gl/MzDeEG)
 - 4 x 10 Bench Dips (https://goo.gl/tLRxm4)
-- 4 x 20 Calv Raises (https://goo.gl/ewio91)
+- 4 x 20 Calf Raises (https://goo.gl/ewio91)
 - Finish with "6 Pack Promise" (https://goo.gl/8FJ5oy)
 
 #### Day B2
