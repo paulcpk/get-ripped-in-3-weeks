@@ -51,7 +51,6 @@ This program is targeted towards Beginner to Intermediate, if you feel over- or 
 - 4 x 10 Pullups (https://goo.gl/RBdny8)
 - 4 x 10 Step ups (https://goo.gl/xzei6k)
 - 4 x 10 Australian Pullups (https://goo.gl/YZo3Rh)
-- 4 x 15 Superman (https://goo.gl/ac9hNC)
 - 4 x 10 Glute Bridge (https://goo.gl/e596T1)
 - 4 x 10 Chinups (https://goo.gl/nba4pQ)
 - Finish with "8 Minutes Abs Workout" (https://goo.gl/DaLnYb)
@@ -72,7 +71,6 @@ This program is targeted towards Beginner to Intermediate, if you feel over- or 
 - 4 x 10 Step ups (https://goo.gl/xzei6k)
 - 4 x 10 Australian Pullups (https://goo.gl/YZo3Rh)
 - 4 x 15 Superman (https://goo.gl/ac9hNC)
-- 4 x 10 Glute Bridge (https://goo.gl/e596T1)
 - 4 x 10 Chinups (https://goo.gl/nba4pQ)
 - Finish with "8 Minute Abs" (https://goo.gl/CBq8Mf)
 
