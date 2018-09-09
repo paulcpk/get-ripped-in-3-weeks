@@ -34,7 +34,7 @@ Day A1 | Day B1 | Cardio | Day A2 | Day B2 | Cardio | Rest
 
 This program is targeted towards Beginner to Intermediate, if you feel over- or underwhelmed you can decrease or increase the set count according to your fitness level. Ideally you should do every set to failure, meaning you should not be able to execute one more repetition.
 
-> **Noob tip:** Exercises are noted in "Number of sets" (Integer) "times" (x) "Number of reps" (Number of repetitions)
+> **Noob tip:** Exercises are noted in "Number of sets" (Integer) "times" (x) "Number of reps" (Integer, Number of repetitions)
 
 #### Day A1
 
@@ -47,6 +47,7 @@ This program is targeted towards Beginner to Intermediate, if you feel over- or 
 - Finish with "6 Pack Promise" (https://goo.gl/8FJ5oy)
 
 #### Day B1
+
 
 - Finish with "8 Minutes Abs Workout" (https://goo.gl/DaLnYb)
 
@@ -77,3 +78,43 @@ This program is targeted towards Beginner to Intermediate, if you feel over- or 
 
 
 ## Nutrition
+
+> **60% of your training success will be determined by your nutrition**
+
+Leave out all artificial sugars. No chocolate. No fatty foods. We will try to maximize Protein intake, with a lot of complex carbohydrate while minimizing fat intake. Breakfast will be right after your workout. You can take your snack also before lunch if you prefer - 1 snack per day ideally. If you feel too hungry you can substitute with another snack occasionally.
+
+Since counting calories is a complex and tedious task we'll just go with gut feeling. The feeling you want to have after breakfast, lunch and dinner is 70-80% full. **Never eat to 100%**. You might feel a bit hungry through most of the time, but this is the way to go if we wanna burn some of that excess fat.
+
+### Food Schedule
+- Breakfast
+- Lunch
+- Snack
+- Dinner
+
+I will supply different options on what to eat for every meal.
+
+#### Breakfast
+Try eating some of your favorite vegetables and/or fruits. For example a carrot, maybe 1-2 tomatos.
+
+- Oatmeal with fruits and nuts (60g oatmeal, Bananas, Dates, Cashews, some walnuts and almonds, try adding some honey if you can't get used to the taste)
+- 2 slices of Bread with lots of cottage cheese
+- 2 slices of bread with lean ham or low fat cheese, no butter
+
+#### Snack
+- 1 large glass of low fat milk, 1 handful of almonds
+- 1 large glass of low fat milk, 1 apple, avocado or fruit of choice
+- 1 Smoothie and some almonds
+- 1 cup (200-250g) of greek joghurt or low fat joghurt with some cashews and a bit of honey
+- 1 Large Salad of choice (No potato salad, no cheese, no overly fatty or sweet dressing)
+
+#### Lunch and Dinner
+
+Try googling "Low fat recipes" or "high protein recipes". Don't cook anything overly sugary or fat.
+Here some recipe ideas:
+- https://www.bbcgoodfood.com/recipes/collection/low-fat
+- https://www.olivemagazine.com/recipes/healthy/best-ever-healthy-low-fat-recipes/
+
+
+
+
+
