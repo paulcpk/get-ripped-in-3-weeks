@@ -41,11 +41,11 @@ The sets are executed in succession, meaning the set has to be completed before 
 #### Day A1
 
 - 4 x 10 Downward Dog Pushups (https://goo.gl/wq6Ppb)
-- 4 x 20 Lunges (https://goo.gl/63pDJf, https://goo.gl/YTVmdj)
+- 4 x 30 Lunges (https://goo.gl/63pDJf, https://goo.gl/YTVmdj)
 - 4 x 10 Pushups (https://goo.gl/s2vy4d)
 - 4 x 20s Rotating Side Planks (Leave out the rotation if it's too demanding) (https://goo.gl/MzDeEG)
 - 4 x 10 Bench Dips (https://goo.gl/tLRxm4)
-- 4 x 20 Calf Raises (https://goo.gl/ewio91)
+- 4 x 20 Single Leg Calf Raises (https://goo.gl/iGUgCN)
 - Finish with "6 Pack Promise" (https://goo.gl/8FJ5oy)
 
 #### Day B1
@@ -64,13 +64,13 @@ The sets are executed in succession, meaning the set has to be completed before 
 - 4 x 10 Inclined Pushups (https://goo.gl/UX5uqF)
 - 4 x 20s Rotating Side Planks (Leave out the rotation if it's too demanding) (https://goo.gl/MzDeEG)
 - 4 x 10 Bench Dips (https://goo.gl/tLRxm4)
-- 4 x 20 Calf Raises (https://goo.gl/ewio91)
+- 4 x 20 Single Leg Calf Raises (https://goo.gl/iGUgCN)
 - Finish with "6 Pack Promise" (https://goo.gl/8FJ5oy)
 
 #### Day B2
 
 - 4 x 10 Pullups (https://goo.gl/RBdny8)
-- 4 x 10 Step ups (https://goo.gl/xzei6k)
+- 4 x 10 Jumping Squats (https://goo.gl/S1TVfx)
 - 4 x 10 Australian Pullups (https://goo.gl/YZo3Rh)
 - 4 x 15 Superman (https://goo.gl/ac9hNC)
 - 4 x 10 Chinups (https://goo.gl/nba4pQ)
