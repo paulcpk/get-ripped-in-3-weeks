@@ -36,6 +36,8 @@ This program is targeted towards Beginner to Intermediate, if you feel over- or 
 
 > **Noob tip:** Exercises are noted in "Number of sets" (Integer) "times" (x) "Number of reps" (Integer, Number of repetitions)
 
+The sets are executed in succession, meaning the set has to be completed before moving to the next exercise.
+
 #### Day A1
 
 - 4 x 10 Downward Dog Pushups (https://goo.gl/wq6Ppb)
