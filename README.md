@@ -51,7 +51,7 @@ The sets are executed in succession, meaning the set has to be completed before 
 #### Day B1
 
 - 4 x 5 Pullups (https://goo.gl/RBdny8)
-- 4 x 10 Step ups (Reps per leg) (https://goo.gl/xzei6k)
+- 4 x 10 Step ups (45-60cm height, Reps per leg) (https://goo.gl/xzei6k)
 - 4 x 10 Australian Pullups (https://goo.gl/YZo3Rh)
 - 4 x 10 Glute Bridge (https://goo.gl/e596T1)
 - 4 x 10 Chinups (https://goo.gl/nba4pQ)
