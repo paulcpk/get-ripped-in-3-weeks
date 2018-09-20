@@ -36,12 +36,12 @@ This program is targeted towards Beginner to Intermediate, if you feel over- or 
 
 > **Noob tip:** Exercises are noted in "Number of sets" (Integer) "times" (x) "Number of reps" (Integer, Number of repetitions)
 
-The sets are executed in succession, meaning the set has to be completed before moving to the next exercise.
+The sets are executed in succession, meaning the set has to be completed before moving to the next exercise. For asymmetric exercises (Lunges, Single leg calf raises, ...) the repcount has to be applied to both sides - so when doing Lunges, the rep count has to be executed with each leg.
 
 #### Day A1
 
 - 4 x 10 Downward Dog Pushups (https://goo.gl/wq6Ppb)
-- 4 x 30 Lunges (https://goo.gl/63pDJf, https://goo.gl/YTVmdj)
+- 4 x 10 Jumping Lunges (https://goo.gl/CQc1jB)
 - 4 x 10 Pushups (https://goo.gl/s2vy4d)
 - 4 x 20s Rotating Side Planks (Leave out the rotation if it's too demanding) (https://goo.gl/MzDeEG)
 - 4 x 10 Bench Dips (https://goo.gl/tLRxm4)
