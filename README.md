@@ -36,7 +36,7 @@ This program is targeted towards Beginner to Intermediate, if you feel over- or 
 
 > **Noob tip:** Exercises are noted in "Number of sets" (Integer) "times" (x) "Number of reps" (Integer, Number of repetitions)
 
-The sets are executed in succession, meaning the set has to be completed before moving to the next exercise. For asymmetric exercises (Lunges, Single leg calf raises, ...) the repcount has to be applied to both sides - so when doing Lunges, the rep count has to be executed with each leg.
+The sets are executed in succession, meaning the set has to be completed before moving to the next exercise. For asymmetric exercises (Lunges, Single leg calf raises, ...) the repcount has to be applied to both sides. For example, 1 x 10 Lunges is one set of 10 reps, meaning 10 reps with the left leg and 10 reps with the right leg.
 
 #### Day A1
 
